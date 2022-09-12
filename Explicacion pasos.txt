@@ -1,0 +1,6 @@
+1) Corri z411_rpart_BO_binaria.r con los parametros default busque los parametros del mejor modelo con depth 3 
+2) Con esos parametros los meti en z101_PrimerModelo.R 
+3) Con el modelo que salio cree los parametros campo1 a 8 para agregar a z411_rpart_BO_binaria.r
+4) Cree las variables con el feature importance del modelo del paso2 de interacciones 
+5) Saque los hiperparametros para el mejor modelo y los meti en z412_rpart_binaria_aplicar.r
+6) Subi los modelos que dio y elegi el de corte 8500
